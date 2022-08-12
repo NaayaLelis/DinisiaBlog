@@ -1,0 +1,85 @@
+.bg-color{
+    background-color: blue;
+}
+
+.bg-blue{
+    background-color: rgb(56, 133, 174);
+   
+}
+.bg-blue2{
+    background-color: rgb(56, 133, 174);
+    border-radius: 10px;
+   
+}
+
+.img-bg {
+    background-image: url('../i.imgur.com/ZMO8jBh.jpg');
+
+    height: 680px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-dblue{
+    margin-top: 5px;
+    background-color:rgb(194, 196, 209);
+    opacity: 0.6;
+    border-radius: 10px;
+       
+}
+
+.negrito {
+    font-weight: bold;
+   }
+
+ .titulo{
+    color: rgb(212, 34, 81);
+    
+ }  
+
+ .bg-contato {
+    background-image:url("../i.imgur.com/F5221Av.jpg");
+    background-size: cover;
+    opacity:0.9;
+ }
+ .space{
+    display: flex;
+    justify-content:center;
+
+ }
+
+ .bg-ganesh{
+    background-color: rgb(19, 75, 141);
+ }
+
+ .bg-bruck{
+    background-color: rgb(92, 103, 142);
+ }
+
+ .bg-charbonnade{
+    background-color: rgb(97, 120, 205);
+ }
+
+ .bg-casageraldo{
+    background-color: rgb(151, 165, 215);
+ }
+
+ .bg-parceiros{
+    background-image: url("../i.imgur.com/WbvcVIO.jpg");
+
+ }
+ 
+ .bg-jumbotron{
+    background-image: url("../i.imgur.com/MudGIvH.jpg");
+   
+ }
+
+ .título-jumbotron{
+    color:  rgb(244, 244, 244);
+ }
+
+ .text-jumbotron{
+    color:  rgb(53, 116, 204)
+ }
