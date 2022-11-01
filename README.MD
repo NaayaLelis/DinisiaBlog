@@ -7,7 +7,7 @@
     🚧  Projeto em construção  🚧
 </h4>
 
-> **Esse projeto segue em construção
+<br>
 
 
  <h1 align="center">Aplicação front-end : <i>
@@ -15,9 +15,10 @@
  [Dinisia](https://www.instagram.com/dinisialtda/), um blog sobre vinhos 🍷</i></h1>
 
 
-<h2><i>Descrição do Projeto</i>
+<h2><i>Descrição do Projeto</i></h2>
 <br>
-Blog com informações sobre a empresa Dinísia e notícias sobre o mundo do vinho. Projeto segue em construção.</h2>
+<br>
+Blog com informações sobre a empresa Dinísia e notícias sobre o mundo do vinho. Projeto segue em construção.
 <br>
 <h2><i>💻Tecnologias utilizadas</h2></i>
 
@@ -36,10 +37,11 @@ Nesse projeto foram usadas as seguintes tecnologias:
 
 <h2><i>Deploy do projeto</h2></i>
 
-Deploy feito no git hub pages. [Acesse aqui.](https://naayalelis.github.io/DinisiaBlog/index.html)
+<h3>Deploy feito no git hub pages.</h3> 
+
+[Acesse aqui.](https://naayalelis.github.io/DinisiaBlog/index.html)
 
 
-<img src="https://user-images.githubusercontent.com/104438961/199362401-d971458d-d230-4d90-8ff0-d601edccfb46.gif" width="300px">
-
+<img src="https://user-images.githubusercontent.com/104438961/199363195-df24ddd6-6336-4589-bef4-facecc287c47.gif" width="400px">
 
 
