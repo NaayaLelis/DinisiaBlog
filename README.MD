@@ -39,6 +39,7 @@ Nesse projeto foram usadas as seguintes tecnologias:
 Deploy feito no git hub pages. [Acesse aqui.](https://naayalelis.github.io/DinisiaBlog/index.html)
 
 
+<img src="https://user-images.githubusercontent.com/104438961/199362401-d971458d-d230-4d90-8ff0-d601edccfb46.gif" width="300px">
 
 
 
