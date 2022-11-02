@@ -17,8 +17,9 @@
 
 <h2><i>Descrição do Projeto</i>
 <br>
-Blog com informações sobre a empresa Dinísia e notícias sobre o mundo do vinho. Projeto segue em construção.</h2>
 <br>
+<h3>Blog com informações sobre a empresa Dinísia e notícias sobre o mundo do vinho. Projeto segue em construção.</h2>
+<br></h3>
 <h2><i>💻Tecnologias utilizadas</h2></i>
 
 Nesse projeto foram usadas as seguintes tecnologias:
