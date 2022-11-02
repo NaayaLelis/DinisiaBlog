@@ -12,14 +12,15 @@
  [Dinisia](https://www.instagram.com/dinisialtda/), um blog sobre vinhos 🍷</i></h1>
 
  <div align="center">
-<img src="https://user-images.githubusercontent.com/104438961/199363195-df24ddd6-6336-4589-bef4-facecc287c47.gif" width="400px">
+<img src="https://user-images.githubusercontent.com/104438961/199363195-df24ddd6-6336-4589-bef4-facecc287c47.gif" width="500px">
 </div>
 
 <h2><i>Descrição do Projeto</i>
 <br>
 <br>
 <h3>Blog com informações sobre a empresa Dinísia e notícias sobre o mundo do vinho. Projeto segue em construção.</h2>
-<br></h3>
+</h3>
+
 <h2><i>💻Tecnologias utilizadas</h2></i>
 
 Nesse projeto foram usadas as seguintes tecnologias:
